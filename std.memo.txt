@@ -1,0 +1,4 @@
+std::vector
+std:strlen
+std::cout
+std::copy_n
